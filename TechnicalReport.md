@@ -1,3 +1,3 @@
 Link to technical report to maintain MLA formatting.
 
-[Technical Report](https://docs.google.com/document/d/1B04PIbS3xZV9jHZSLQNzyhsLIZrbu5zRo2sTQR7HJfY/edit?usp=sharing)
+[Technical Report](https://docs.google.com/document/d/1eHhI6OKKr351BATE90-8bfZDkXo0cyrzF9TPLeakJXY/edit?usp=sharing)
