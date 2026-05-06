@@ -101,26 +101,26 @@ Visualizations
 
 Figure 1: heatmap with all “age”  and “first sexual intercourse”
 
-![Figure 2: heatmap with the new variable “time since first sexual intercourse"](Figure2may5.avif)
+![Figure 2: heatmap with the new variable “time since first sexual intercourse"](.github/Figure2may5.avif)
 
 Figure 2: heatmap with the new variable “time since first sexual intercourse"
 
-![Figure 3: Table indicating the recall and log loss for each model](figure3may5.avif)
+![Figure 3: Table indicating the recall and log loss for each model](.github/figure3may5.avif)
 
 Figure 3: Table indicating the recall and log loss for each model
 
-![Figure 4: Confusion matrix for model 1: Logistic Regression](figure4may5.avif)
+![Figure 4: Confusion matrix for model 1: Logistic Regression](.github/figure4may5.avif)
 
 Figure 4: Confusion matrix for model 1: Logistic Regression
 
-![Figure 5: Confusion matrix for model 2: KNN](figure5may5.avif)
+![Figure 5: Confusion matrix for model 2: KNN](.github/figure5may5.avif)
 
 Figure 5: Confusion matrix for model 2: KNN
 
-![Figure 6: Confusion matrix for model 3: Naive Bayes](figure6may5.avif)
+![Figure 6: Confusion matrix for model 3: Naive Bayes](.github/figure6may5.avif)
 
 Figure 6: Confusion matrix for model 3: Naive Bayes
 
-![Figure 7: Feature Importance for model 1, Logistic regression. The further positive a variable is from one, the more impact it has.](figure7may5.avif)
+![Figure 7: Feature Importance for model 1, Logistic regression. The further positive a variable is from one, the more impact it has.](.github/figure7may5.avif)
 
 Figure 7: Feature Importance for model 1, Logistic regression. The further positive a variable is from one, the more impact it has.
