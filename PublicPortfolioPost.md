@@ -97,7 +97,7 @@ A large part of healthcare ethics involves privacy concerns regarding patients' 
 
 Visualizations
 
-![Figure 1: heatmap with all “age”  and “first sexual intercourse”](Visualization1-may5.avif)
+[Figure 1: heatmap with all “age”  and “first sexual intercourse”](Visualization1-may5.avif)
 
 
 ![Figure 2: heatmap with the new variable “time since first sexual intercourse"](Figure2may5.avif)
